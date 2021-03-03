@@ -1,3 +1,6 @@
 # Todo-List-Project
 
-https://marmouz82.github.io/Todo-List-Project/
+## Run the project locally
+
+```
+git clone 
