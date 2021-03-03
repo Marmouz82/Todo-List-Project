@@ -1,5 +1,10 @@
 # Todo-List-Project
 
+## Tech used
+
+- JavaScript
+- sass
+
 ## Run the project locally
 
 ```
